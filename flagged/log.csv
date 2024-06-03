@@ -1,0 +1,2 @@
+Pclass,"Sex (0=Female, 1=Male)",Age,SibSp,Parch,Fare,"Embarked (0=C, 1=Q, 2=S)",Survival Prediction,flag,username,timestamp
+5,1,10,5,3,8,1,"{""label"": null, ""confidences"": null}",,,2024-06-03 01:48:32.245253
